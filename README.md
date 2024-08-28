@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**roazanas/roazanas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/roazanas">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=36&letterSpacing=-2px&pause=1000&color=01FF01&center=true&vCenter=true&width=435&lines=github.com%2Froazanas" /></a>
+</p>
+<p align="left">
+  <a href="https://t.me/roazanas">
+    <img src="https://cataas.com/cat/gif/says/roazanas?filter=mono&fontColor=lime&fontSize=44&type=square" width=229 /></a>
+  <a href="https://t.me/roazanas">
+    <img src="https://myreadme.vercel.app/api/embed/roazanas?panels=userstatistics,toplanguages,commitgraph" /></a>
+</p>
